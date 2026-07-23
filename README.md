@@ -35,6 +35,6 @@ Este repositório contém a construção de um **Banco de Dados relacional** des
 ## 🚀 Próximos Passos
 
 - Criação de **stored procedures** para automação de regras de negócio.
+- Uso e entendimento de PL/SQL, para progresso de estudos.
 - Desenvolvimento de **views** para simplificar consultas recorrentes.
-- Uso de PLSQL, para estudo e desenvolvimento
 - Aplicação de **triggers** para validações e integrações automáticas.
